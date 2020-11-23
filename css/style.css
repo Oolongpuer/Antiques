@@ -564,14 +564,14 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   display: table-cell;
   vertical-align: middle;
   height: 270px;
-  background: #fff;
   opacity: 0;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
 }
 .work .desc h3 {
-  font-size: 14px;
+  font-size: 18px;
+  color: #228896;
   -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
   transition: transform 0.3s, opacity 0.3s;
   -webkit-transform: translate3d(0, -15px, 0);
